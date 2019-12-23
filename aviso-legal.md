@@ -12,7 +12,7 @@ legal: "si"
                 </div>
         <div class="col-md-10 col-xs-12 col-lg-10">
                 <div  align="center">
-                  <img itemprop="image" style="width: 110px;" class="img-rounded" src="https://res.cloudinary.com/imbriitneysam/image/upload/v1540614135/logoBr-min.jpg" alt="GotoPlay - Aviso Legal">
+                  <img itemprop="image" style="width: 110px;" class="img-rounded" src="https://res.cloudinary.com/dzsurdpyq/image/upload/v1577077840/logogo-min.png" alt="GotoPlay - Aviso Legal">
                    <img itemprop="image" style="width: 110px;" class="img-rounded" src=" https://res.cloudinary.com/imbriitneysam/image/upload/v1540771100/DMCA-min.jpg" alt="DMCA - GotoPlay">
                 </div>
                 <div class="col-md-12 col-xs-12 col-lg-12" align="center">
