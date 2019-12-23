@@ -1,6 +1,6 @@
 # Site Settings
-title: BreakTimeTV
-email: breaktime3030@gmail.com
+title: GotoPlay
+email: therenatoem@gmail.com
 description: Sitio Web para ver peliculas y series online gratis.
 baseurl: ""
 url: https://gotoplay.netlify.com
@@ -8,16 +8,16 @@ url: https://gotoplay.netlify.com
 google_analytics: UA-148084448-1
 
 # User Settings
-username: BreakTimeTv
+username: GotoPlay
 user_description: Página dedicada a videos sin publicidad.
 disqus_username: BreakTimeTV
 
 # Social Media
 # Remove the item if you don't need it
 github_username: 
-facebook_username: breaktimetv
+facebook_username: GotoPlay
 twitter_username: 
-instagram_username: _breaktimetv
+instagram_username: GotoPlay
 linkedin_username: 
 medium_username: 
 
