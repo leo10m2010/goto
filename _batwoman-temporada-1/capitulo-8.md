@@ -1,0 +1,18 @@
+---
+layout: episodio
+title: "Batwoman 1x08"
+url_serie_padre: 'batwoman-temporada-1'
+category: 'series'
+capitulo: 'yes'
+anio: '2019'
+prev: 'capitulo-7'
+proximo: 'capitulo-9'
+sandbox: allow-same-origin allow-forms
+idioma: 'Subtitulado'
+calidad: 'Full HD'
+reproductores: ["https://player.openplay.vip/player.php?id=MTA5NTI&sub=https://sub.cuevana2.io/vtt-sub/sub7/Batwoman.S01E08.vtt","https://tutumeme.net/embed/player.php?u=bXQ3ajJOaW1wcFRGcEs2VW5XRGExTlRPMytmUnc3bHVwcWhoenVIUjI5SHF5TlNwc0taaG1jN2gwZHZSNTlIRHVhV2tZWitkNUtDVDNOL1ZvYW1rYjJab202V2g","https://player.cuevana2.io/irgotoolp.php?url=eTllbW9hZHpYNURLejlaalg2T3BsYy9PMHNTV29hYWVuY3JYMEpHVm9LRm9uWlRYbTVLQWRYMndmc2lRMEphbmFRPT0&sub=https://sub.cuevana2.io/vtt-sub/sub7/Batwoman.S01E08.vtt","https://api.cuevana3.io/stream/index.php?file=ek5lbm9xYWNrS0xYMTZLa2xNbkdvY3ZTb3BtZng4TGp6ZFpobGFMUGtOVEx6SitYWU5YTTdORE1vWmRnbEpham5KTmtZSlRTMGViVTBxZGdsdEhPb3RqWGEybGtsSk9qbU1LR2gzV3l3THVvd29aaVpNR21vNXlSb0tKbm9kSGkxOWVTcHF6U3hyRFh5S1dibUE9PQ","https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1ZtS1o1ZlpQV3Q1dlVoWXhxMkxMZnRwT2tpWUNUa2UybDBtTi9oTmkxMU1tU3FadVkyUT09","https://animekao.club/kaodrive/embed.php?data=t7B8VVpa/BFDP6vUsv5VJLf9WnYoQpZbSntC/qiSKhnVtvTHC68Q1wQfA7JQrVVnk/+LoGkZoyiWet/eUSgfcku1/AhCz9qF+huZVCzPe1LhsFektnZK5NiEKR0jVKbRcMo5qHctpRHdm3K0Ty3vz8RznOJ5hFKTii6ENrqyeQNKeb8OimaG9Z5nsN1eZOQ3IngqV8AKQLglCGk+RqWMyAlnoxdj8vSzpX0VMaKD4ReSO99WNJvPE8QW7PmpFLpg2+pLeY1HB7/84N7HyE1+AwL8tjhdXyCO0xwPjMP/INtCaLBE5QKv2v8G87hdlH7At2ulf9Foj694zwS4UtAhb46V8PEMc3hHnVklm13ImCSZGhPoCvTsj9qqTPKRAec9flI2aDwJgyulzz16y2QBbIXeBXcCbKEvxPbxD2y10sgkAlxJu1T+d8MfJBojfEcirZaAsWE9/gkwfPFGvMnM4cxJxkLXMU7ftczqfjrUMIwelF3+Mid10X8RmOV39BNA","https://api.cuevana3.io/stream/index.php?file=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1ZtS1o1ZlpQV3Q1dlVoWXhxMkxMZnRwT2tpWUNUa2UybDBtTi9oTmkxMU1tU3FadVkyYURhMDlLYW5walN5ZUxZMHFadnJNZlU","https://api.cuevana3.io/olpremium/gd.php?file=ek5lbm9xYWNrS0xNejZabVlkSFIyTkxQb3BPWDB0UFkwY3lvbjJIRjBPQ1QwNStUck1mVG9kVExvM0djeHA3VnFybXRscUdvMWRXNHRZbU1lYXVUeDg2cGpKVmp4cXpBejYxcGxucXN6TTI4eXFxTWlyUzMxS3JMaTRoNHNKSEp1TStIaDRlODFjS3BsSUNUbmJ1UnlMakxyWk9IcDVURXo3MnFnWWpHcXNuUno0aUhaY2EweUxtWHE1Vmx4cFRKcTgrSWxucXcyOWJlejN1SGViUzZ3SmZHYklLRWlNbmYxOG1ZYjZ6SDFBPT0"]
+reproductor: 'fembed'
+clasificacion: '+10'
+tags:
+- Ciencia-Ficcion
+---
