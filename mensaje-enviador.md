@@ -12,7 +12,7 @@ permalink: /contact/mensaje-enviado
 </style>
 
 <div class="container">
-  <img style="height: 250px;width: 250px;" src="/assets/img/gatito.gif" width="100%" alt="Página no encontrada">
+  <img style="height: 250px;width: 250px;" src="/assets/img/padoru.gif" width="100%" alt="Página no encontrada">
   <p style="color:white; font-size:25px"><strong>Mensaje Enviado Correctamente!</strong></p>
   <p style="color:white;">Puede enviar otro  <a rel="nofollow" target="_self" href="{{site.url}}/contact" class="Button">Dando Click Aquí</a> </p>
 </div>
