@@ -21,7 +21,7 @@ embed: https://www.youtube.com/embed/eU7FlWNWr8o?rel=0&amp;hd=1&border=0&wmode=o
 sandbox: allow-same-origin allow-forms
 reproductor: fembed
 clasificacion: '+5'
-reproductores: ["https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1Z1NkdSb0xhMzFkT3Fob0NDMXN2ZG1KZUpnSCt1dGN6STIzeWRxcWJiNUplU3FadVkyUT09"]
+reproductores: ["https://www702.bitporno.com/87/0/U8kPSOnFfzOb4jnShvlEhw/1577144949/190213/059G04HO6WO095LI91CJT.mp4","https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1Z1NkdSb0xhMzFkT3Fob0NDMXN2ZG1KZUpnSCt1dGN6STIzeWRxcWJiNUplU3FadVkyUT09"]
 tags:
 - Animado
 twitter_text: Boku no Hero Academia the Movie
