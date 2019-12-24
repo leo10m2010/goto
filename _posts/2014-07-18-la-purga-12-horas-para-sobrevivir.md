@@ -22,7 +22,7 @@ clasificacion: '+10'
 reproductores: ["https://www.fembed.com/v/640p2u0z4wwz8kz"]
 tags:
 - Accion
-twitter_text: La Purga: 12 horas para sobrevivir
+twitter_text: La Purga 12 horas para sobrevivir
 introduction: Secuela de la película The Purge. La noche de las bestias (2013). En la película original, el gobierno de Estados Unidos permite que, durante una noche, cualquier acto vandálico sea legal. De esta forma intentan reducir...
 ---
 

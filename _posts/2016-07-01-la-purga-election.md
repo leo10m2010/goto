@@ -22,7 +22,7 @@ clasificacion: '+10'
 reproductores: ["https://www.fembed.com/v/g8q-gf-dpllwxg8"]
 tags:
 - Accion
-twitter_text: La Purga: El año de la elección
+twitter_text: La Purga El año de la elección
 introduction: Tras sufrir las consecuencias de La Purga cuando era niña, una senadora de los Estados Unidos promete acabar con esta tradición si gana las elecciones a llevar a cabo este año. Sin embargo...
 ---
 
