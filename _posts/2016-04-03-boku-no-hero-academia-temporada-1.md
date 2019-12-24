@@ -34,8 +34,8 @@ chapters:
     capitulo-13: ["En cada uno de sus corazones", "capitulo-13/", "13"]
 
 clasificacion: '+10'
-tags: Animacion
-- 
+tags: 
+- Animacion
 twitter_text: Boku no Hero Academia - Temporada 1
 introduction: Las personas no nacen igual. El protagonista de esta historia es uno de esos casos raros que nacen sin superpoderes, pero esto no le impedirá perseguir su sueño: ser un gran héroe como el legendario All-Might. Para convertirse en el héroe que quiere ser, se apuntará a una de las academias de héroes..
 ---
