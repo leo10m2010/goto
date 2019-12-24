@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: gotoplay.netlify.com/
+Domain: gotoplay.tk/
 Token: c50caa03e9c9b77776a3cb21f8fa618e946bac7b54a043f77a9ad9f6531efd01
