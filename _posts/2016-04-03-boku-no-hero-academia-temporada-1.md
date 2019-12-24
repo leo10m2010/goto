@@ -29,8 +29,8 @@ chapters:
     capitulo-8: ["La línea de salida de Bakugou", "capitulo-8/", "8"]
     capitulo-9: ["Sí esfuérzate, Iida-kun!", "capitulo-9/", "9"]
     capitulo-10: ["Encuentro con lo desconocido", "capitulo-10/", "10"]
-    capitulo-11: ["Game Over", "capitulo-11/", "capitulo-11/"]
-    capitulo-12: ["All Might", "capitulo-12/", "capitulo-12/"]
+    capitulo-11: ["Game Over", "capitulo-11/", "11"]
+    capitulo-12: ["All Might", "capitulo-12/", "12"]
     capitulo-13: ["En cada uno de sus corazones", "capitulo-13/", "13"]
 
 clasificacion: '+10'
