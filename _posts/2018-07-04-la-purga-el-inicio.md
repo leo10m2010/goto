@@ -1,6 +1,6 @@
 ---
 layout: pelicula
-title: "La primera purga / 12 Horas Para Sobrevivir - El Inicio"
+title: "La Purga: El Inicio"
 titulo_original: "The First Purge"
 image_carousel: 'https://res.cloudinary.com/imbriitneysam/image/upload/v1542492283/12-poster-min.jpg'
 image_banner: 'https://res.cloudinary.com/imbriitneysam/image/upload/v1542492283/12-banner-min.jpg'
