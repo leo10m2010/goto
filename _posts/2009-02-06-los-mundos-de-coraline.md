@@ -19,7 +19,6 @@ trailer: https://www.youtube.com/embed/m9bOpeuvNwY
 embed: https://www.youtube.com/embed/m9bOpeuvNwY?rel=0&amp;hd=1&border=0&wmode=opaque&enablejsapi=1&modestbranding=1&controls=1&showinfo=1
 sandbox: allow-same-origin allow-forms
 reproductor: 'fembed'
-netflix: 'no'
 clasificacion: '+9'
 reproductores: ["https://www.jplayer.net/v/5jo42e6qx90","https://www.jplayer.net/v/3qv1663m29y"]
 tags:
