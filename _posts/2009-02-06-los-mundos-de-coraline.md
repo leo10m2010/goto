@@ -22,7 +22,7 @@ reproductor: 'fembed'
 clasificacion: '+9'
 reproductores: ["https://www.jplayer.net/v/5jo42e6qx90","https://www.jplayer.net/v/3qv1663m29y"]
 tags:
-- Animacion
+- Animado
 twitter_text: Los mundos de Coraline
 introduction: Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene secretos siniestros.
 ---
