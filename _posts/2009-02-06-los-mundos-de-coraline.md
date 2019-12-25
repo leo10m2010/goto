@@ -7,7 +7,7 @@ image_banner: 'https://res.cloudinary.com/dzsurdpyq/image/upload/v1577316770/cor
 description: Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene secretos siniestros.
 description_corta: Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene secretos siniestros.
 category: 'peliculas'
-idioma: 'Latino' 'Ingles'
+idioma: 'Latino'
 descargas: 'no'
 descargas2:
 anio: '2009'
@@ -25,7 +25,7 @@ reproductores: ["https://www.jplayer.net/v/5jo42e6qx90","https://www.jplayer.net
 tags:
 - Animacion
 twitter_text: Los mundos de Coraline
-introduction: na aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene secretos siniestros.
+introduction: Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene secretos siniestros.
 ---
 
 
