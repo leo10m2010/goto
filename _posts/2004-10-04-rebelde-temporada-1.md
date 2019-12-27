@@ -4,8 +4,8 @@ title: "Rebelde - Temporada 1"
 titulo_original: "Rebelde"
 image_carousel: 'https://res.cloudinary.com/dzsurdpyq/image/upload/v1577313723/rebelde-temporada-1-min.jpg'
 image_banner: 'https://res.cloudinary.com/dzsurdpyq/image/upload/v1577313735/rebelde-temporada-1-banner.jpg'
-description: El "Elite Way School" es un exclusivo colegio privado de prestigio internacional donde adolescentes de clase alta estudian. El colegio cuenta con un programa de becas para jóvenes de bajos recursos con excelente nivel académico o deportivo; sin embargo, pocos de ellos logran graduarse, ya que son perseguidos por una sociedad secreta llamada “La Logia” cuyo propósito es conservar la “pureza” de la clase privilegiada. Entre el grupo de chicos que llega al club de veraneo que precede al año escolar, se encuentran Mía, Miguel, Diego y Roberta, que a pesar de sus grandes diferencias, descubren algo que los unirá por encima de los prejuicios, su profesión.
-description_corta: El "Elite Way School" es un exclusivo colegio privado de prestigio internacional donde adolescentes de clase alta estudian.
+description: Elite Way School es un exclusivo colegio privado de prestigio internacional donde adolescentes de clase alta estudian. El colegio cuenta con un programa de becas para jóvenes de bajos recursos con excelente nivel académico o deportivo; sin embargo, pocos de ellos logran graduarse, ya que son perseguidos por una sociedad secreta llamada “La Logia” cuyo propósito es conservar la “pureza” de la clase privilegiada. Entre el grupo de chicos que llega al club de veraneo que precede al año escolar, se encuentran Mía, Miguel, Diego y Roberta, que a pesar de sus grandes diferencias, descubren algo que los unirá por encima de los prejuicios, su profesión.
+description_corta: Elite Way School es un exclusivo colegio privado de prestigio internacional donde adolescentes de clase alta estudian.
 category: 'series'
 descargas: 'no'
 idioma: 'Latino'
