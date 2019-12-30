@@ -19,7 +19,7 @@ trailer: https://www.youtube.com/embed/OoJb5jHkx7k
 embed: https://www.youtube.com/embed/OoJb5jHkx7k?rel=0&amp;hd=1&border=0&wmode=opaque&enablejsapi=1&modestbranding=1&controls=1&showinfo=1
 sandbox: allow-same-origin allow-forms
 reproductor: fembed
-netflix: 'Si'
+netflix: 'si'
 clasificacion: '+9'
 reproductores: ["https://www.fembed.com/v/87p4zu8wpg0z6j8"]
 tags:
