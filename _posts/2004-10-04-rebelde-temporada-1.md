@@ -69,6 +69,17 @@ chapters:
     capitulo-48: ["Rebelde - Temporada 1" ,"capitulo-48/", "48"]
     capitulo-49: ["Rebelde - Temporada 1" ,"capitulo-49/", "49"]
     capitulo-50: ["Rebelde - Temporada 1" ,"capitulo-50/", "50"]
+    capitulo-51: ["Rebelde - Temporada 1" ,"capitulo-51/", "51"]
+    capitulo-52: ["Rebelde - Temporada 1" ,"capitulo-52/", "52"]
+    capitulo-53: ["Rebelde - Temporada 1" ,"capitulo-53/", "53"]
+    capitulo-54: ["Rebelde - Temporada 1" ,"capitulo-54/", "54"]
+    capitulo-55: ["Rebelde - Temporada 1" ,"capitulo-55/", "55"]
+    capitulo-56: ["Rebelde - Temporada 1" ,"capitulo-56/", "56"]
+    capitulo-57: ["Rebelde - Temporada 1" ,"capitulo-57/", "57"]
+    capitulo-58: ["Rebelde - Temporada 1" ,"capitulo-58/", "58"]
+    capitulo-59: ["Rebelde - Temporada 1" ,"capitulo-59/", "59"]
+    capitulo-60: ["Rebelde - Temporada 1" ,"capitulo-60/", "60"]
+
 
 clasificacion: '+10'
 tags:
