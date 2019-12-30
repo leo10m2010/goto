@@ -7,7 +7,7 @@ image_banner: 'https://res.cloudinary.com/dzsurdpyq/image/upload/v1577729964/com
 description: El legendario actor y cantante mexicano Pedro Infante es enviado de regreso a la Tierra en el cuerpo de un imitador para enmendar sus errores por la forma en que trató a las mujeres y así ganar su entrada al cielo.
 description_corta: El legendario actor y cantante mexicano Pedro Infante es enviado de regreso a la Tierra en el cuerpo de un imitador para enmendar sus errores por la forma en que trató a las mujeres y así ganar su entrada al cielo.
 category: 'peliculas'
-idioma: 'Español'
+idioma: 'Latino'
 descargas: 'no'
 descargas2:
 anio: '2019'

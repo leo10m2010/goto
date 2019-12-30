@@ -13,14 +13,14 @@ descargas2:
 anio: '2019'
 duracion: '1h 51 min'
 estrellas: '4'
-calidad: 'CAM'
+calidad: 'Full HD'
 genero: Comedia
 trailer: https://www.youtube.com/embed/1SDBzrydAAc
 embed: https://www.youtube.com/embed/1SDBzrydAAc?rel=0&amp;hd=1&border=0&wmode=opaque&enablejsapi=1&modestbranding=1&controls=1&showinfo=1
 sandbox: allow-same-origin allow-forms
 reproductor: fembed
 clasificacion: '+5'
-reproductores: ["https://player.openload.download/player.php?id=NThheE8vVlFPWUVQaGo2Y0JxclF0bVVKQnpsOTI3NUVZMVlXODlhRHdhNUF6ZW1IUHVldjZIUzhmUkdOM2h3QkpvdnJta0xRUmpOWlBOMEc2ZlNXZVE9PQ"]
+reproductores: ["https://www.fembed.com/v/e82ryf-q8dxry1m"]
 tags:
 - Comedia
 twitter_text: Los Rodriguez y el más allá

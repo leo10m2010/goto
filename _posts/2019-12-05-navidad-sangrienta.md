@@ -7,7 +7,7 @@ image_banner: 'https://res.cloudinary.com/dzsurdpyq/image/upload/v1577731787/nav
 description: Un grupo de estudiantes es perseguido por un extraño durante sus vacaciones de navidad. Remake de la película homónima aparecida en 1974.
 description_corta: Un grupo de estudiantes es perseguido por un extraño durante sus vacaciones de navidad. Remake de la película homónima aparecida en 1974.
 category: 'peliculas'
-idioma: 'Español'
+idioma: 'Latino'
 descargas: 'no'
 descargas2:
 anio: '2019'
