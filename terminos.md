@@ -16,16 +16,15 @@ terminos: "si"
                         </div>
                         <div class="col-md-12 col-xs-12 col-lg-12" align="justify">
                             <p class="parrafo"> En esta declaración de términos y condiciones de servicio se detallará las condiciones generales de uso y acceso a la web gotoplay.tk.
-                            <b> AL UTILIZAR LA PÁGINA WEB DE GotoPlay (INCLUYENDO SU CONTENIDO) Y / O SERVICIOS, ESTÁ DE ACUERDO CON LOS TÉRMINOS Y CONDICIONES QUE SE DETALLAN A CONTINUACIÓN. SI NO ESTÁ DE ACUERDO CON ESTOS TÉRMINOS Y CONDICIONES O NO DESEA ESTAR OBLIGADO POR ELLOS, NO UTILICE EL SITIO WEB O SERVICIOS DE GotoPlay. </b></p>            
+                            <b> AL UTILIZAR LA PÁGINA WEB DE GOTOPLAY (INCLUYENDO SU CONTENIDO) Y / O SERVICIOS, ESTÁ DE ACUERDO CON LOS TÉRMINOS Y CONDICIONES QUE SE DETALLAN A CONTINUACIÓN. SI NO ESTÁ DE ACUERDO CON ESTOS TÉRMINOS Y CONDICIONES O NO DESEA ESTAR OBLIGADO POR ELLOS, NO UTILICE EL SITIO WEB O SERVICIOS DE GotoPlay. </b></p>            
                             <p class="parrafo2"> 1.- Identificación de la organización </p>
                             <p class="parrafo">  <b> GotoPlay </b> es solamente una marca y/o proyecto, no está registrada como empresa de ninguna índole.
                             </p>
                             <p class="parrafo2"> 2.- Quienes somos </p>
                             <p class="parrafo"> <b>GotoPlay</b> es un sitio web gratuito de entretenimiento libre de publicidad, nacido el 18 de noviembre del 2018. No nos consideramos una empresa, más bien somos un proyecto OpenSource elaborado en GitHub Pages. No generamos ingresos de ninguna forma, porque estamos conscientes de que no podemos lucrarnos de contenido de terceras personas.  </p>
                             <p class="parrafo2"> 3.- Definición de nuestra marca </p>
-                            <p class="parrafo"> Los terminos utilizados para la elaboración de la marca <b>GotoPlay</b> son las siguientes: "GotoPlay", "TV", las mismas que tienen el siguiente significado:   </p>
-                            <p class="parrafo"> <b>- GotoPlay:</b> esta palabra traducida del inglés significa descanso, pero nosotros quisimos darle nuestra propio definición, la cual es "Pasatiempo".     </p>
-                             <p class="parrafo"> <b>- TV:</b> esta palabra es el acrónimo de televisión pero nosotros lo que queremos dar a entender con esta palabra es que nuestro sitio web será accesible para cualquier dispositivo móvil.     </p>
+                            <p class="parrafo"> Los terminos utilizados para la elaboración de la marca <b>GotoPlay</b> son las siguientes: "GotoPlay", las mismas que tienen el siguiente significado:   </p>
+                            <p class="parrafo"> <b>- GotoPlay:</b> esta palabra traducida del inglés significa Vamos a reproducir.     </p>
                              <p class="parrafo2"> 4.- Condiciones generales </p>
                             <p class="parrafo"> El acceso a la página oficial de GotoPlay es https://gotoplay.tk, si algún usuario ingresa a otra web con el mismo nombre de nuestra marca pero no proviene del mismo dominio, el usuario deberá aceptar las Condiciones Generales de uso de dicha web, así como su uso leal y conforme a la legalidad vigente ya sea en Ecuador o en el país de conexión. <b>GotoPlay</b> se reserva el derecho de modificar la Política de Uso del presente acuerdo sin necesidad de previo aviso al usuario, entrando en vigor desde el momento de su publicación en la web. Así mismo podrá interrumpir el servicio resolviendo la relación de acceso con el usuario cuando detecte un uso que contravenga las presentes condiciones.   </p>
                             <p class="parrafo2"> 5.- Derechos de autor y marcas </p>

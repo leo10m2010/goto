@@ -3,7 +3,7 @@
     <span>GotoPlay</span> No almacena ningún vídeo, estos son alojados en sitios de terceros, nosotros solo recopilamos los mejores sin publicidad  - Hay {{ site.posts | size }} contenido disponible
 
     <p> GotoPlay © - <script>document.write(new Date().getFullYear());</script><svg class="love"><use xlink:href="#icon-heart"></use></svg>  </p>
-    Desarrollado por: <span style="color:white; font-weight: bold"> Un Gotoplayer  </span>
+    Desarrollado por: <span style="color:white; font-weight: bold"> Un GotoPlayer  </span>
  
 
   
@@ -16,13 +16,15 @@
 
 
       </div>
-    <div align="center" style="color:white;    padding-top: 10px;" id="footer-facebook-post">
-   
-      <a  href="https://www.instagram.com/GotoPlay/"  target="_blank" title="Instagram">
-        <svg><use xlink:href="#icon-instagram"></use></svg>
-      </a>
-      <a href="//www.dmca.com/Protection/Status.aspx?ID=9f502a51-e127-4c1f-a527-3300ace55a3c" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-09.png?ID=9f502a51-e127-4c1f-a527-3300ace55a3c"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-    </div>
+      <div align="center"  id="footer-facebook-index" style="color:white;    padding-top: 10px;">
+        <a  href="https://www.facebook.com/GotoPlayTV/"  target="_blank" title="Facebook">
+          <svg><use xlink:href="#icon-facebook"></use></svg>
+        </a>
+        <a  href="https://www.instagram.com/_gotoplay/"  target="_blank" title="Instagram">
+          <svg><use xlink:href="#icon-instagram"></use></svg>
+        </a>
+        <a href="//www.dmca.com/Protection/Status.aspx?ID=9f502a51-e127-4c1f-a527-3300ace55a3c" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-09.png?ID=9f502a51-e127-4c1f-a527-3300ace55a3c"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+      </div>
   </div>
 
 
@@ -438,6 +440,11 @@ var error= player1.error();
         <script  src="/assets/js/UserAgent.js"></script>
 
         <script>
+              var otros = document.getElementById("otros");
+            if(otros){
+              $("#otros").owlCarousel({autoPlay:6e3,lazyLoad:!0,animateOut:"fadeOut",responsiveClass:!0,items:4,itemsDesktop:[1e3,4],itemsDesktopSmall:[900,4],itemsTablet:[700,4],itemsMobile:[479,3]})
+
+            }
 
           function mostrar(){
 
@@ -649,8 +656,8 @@ jQuery(function($) {
             if(erotica){
 
               swal({
-                title: "!ALTO AHÍ PUERCO¡",
-                text: "Estas por ver un contenido sólo para +18. ¿Tienes la edad para ver esto?",
+                title: "!ALTO AHÍ MARRANO¡",
+                text: "Estas por ver un contenido sólo para +18. ¿Tienes la edad para ver esto, puerco?",
                 type: "warning",
                 showCancelButton: true,
                 confirmButtonColor: "#28a745",
@@ -728,12 +735,12 @@ jQuery(function($) {
    "@context" : "http://schema.org",
    "@type" : "Organization",
    "name" : "GotoPlay",
-   "url" : "https://gotoplay.tk",
-   "address": "Buenavista y sexta A norte",
+   "url" : "https://gotoplay.tk/",
+   "address": "Pillco Marca",
    "sameAs": [
-   "https://twitter.com/imbriitneysam",
+   "https://twitter.com/renato2k18",
      "https://www.facebook.com/GotoPlay",
-     "https://www.instagram.com/GotoPlay/?hl=en"
+     "https://www.instagram.com/_gotoplay/?hl=en"
     ]
    
   }
