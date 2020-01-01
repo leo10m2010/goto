@@ -1,7 +1,7 @@
 ---
 layout: main3
 title: Contacto
-description: Contacto GotoPlay.
+description: Contacto GotoPlay TV.
 permalink: /contact
 contacto: "si"
 

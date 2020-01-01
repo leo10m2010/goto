@@ -1,5 +1,5 @@
 # Site Settings
-title: GotoPlay
+title: GotoPlayTV
 email: therenatoem@gmail.com
 description: Sitio Web para ver peliculas y series online gratis.
 baseurl: ""
@@ -8,16 +8,16 @@ url: https://gotoplay.tk
 google_analytics: UA-148084448-1
 
 # User Settings
-username: GotoPlay
+username: GotoPlayTV
 user_description: Página dedicada a videos sin publicidad.
 disqus_username: BreakTimeTV
 
 # Social Media
 # Remove the item if you don't need it
 github_username: 
-facebook_username: GotoPlay
+facebook_username: GotoPlayTV
 twitter_username: 
-instagram_username: GotoPlay
+instagram_username: GotoPlayTV
 linkedin_username: 
 medium_username: 
 

@@ -12,15 +12,15 @@ legal: "si"
                 </div>
         <div class="col-md-10 col-xs-12 col-lg-10">
                 <div  align="center">
-                  <img itemprop="image" style="width: 110px;" class="img-rounded" src="https://res.cloudinary.com/dzsurdpyq/image/upload/v1577077840/logogo-min.png" alt="GotoPlay - Aviso Legal">
-                   <img itemprop="image" style="width: 110px;" class="img-rounded" src=" https://res.cloudinary.com/imbriitneysam/image/upload/v1540771100/DMCA-min.jpg" alt="DMCA - GotoPlay">
+                  <img itemprop="image" style="width: 110px;" class="img-rounded" src="https://res.cloudinary.com/dzsurdpyq/image/upload/v1577077840/logogo-min.png" alt="GotoPlay TV - Aviso Legal">
+                   <img itemprop="image" style="width: 110px;" class="img-rounded" src=" https://res.cloudinary.com/imbriitneysam/image/upload/v1540771100/DMCA-min.jpg" alt="DMCA - GotoPlay TV">
                 </div>
                 <div class="col-md-12 col-xs-12 col-lg-12" align="center">
                     <h2 class="top_parrafo "> Aviso Legal </h2>
                 </div>
                 <div class="col-md-12 col-xs-12 col-lg-12" align="center">
                     <p class="parrafo"> – Nosotros no cobramos ninguna suscripción o pago por la reproducción de los videos mostrados en este sitio web.</p>
-                    <p class="parrafo"> – Nuestra web oficial es gotoplay.tk, si algún usuario ingresa a otra web con nuestra misma marca pero que no pertenezca al dominio citado anteriormente, GotoPlay no se responsabiliza por lo que puedan ofrecer estas otras web (peliculas o series con publicidad, robo de información por registros, virus o malwares, cobro de subcripciones etc). En ningún caso o circunstancia se podrá responsabilizar directamente o indirectamente al propietario ni a los colaboradores de GotoPlay por acciones llevadas a cabo por estas páginas copias. </p>
+                    <p class="parrafo"> – Nuestra web oficial es gotoplay.tk, si algún usuario ingresa a otra web con nuestra misma marca pero que no pertenezca al dominio citado anteriormente, GotoPlay TV no se responsabiliza por lo que puedan ofrecer estas otras web (peliculas o series con publicidad, robo de información por registros, virus o malwares, cobro de subcripciones etc). En ningún caso o circunstancia se podrá responsabilizar directamente o indirectamente al propietario ni a los colaboradores de GotoPlay TV por acciones llevadas a cabo por estas páginas copias. </p>
                     <p class="parrafo"> – Los enlaces que figuran en esta web han sido encontrados en páginas de la índole de YouTube, RapidVeo, StreaMango, Veoh, vk, Video4You, Powvideo, Openload, Streaming.to y han sido publicados por diferentes usuarios y desconocemos si los mismos tienen contratos de cesión de derechos sobre estos videos para reproducirlos, alojarlos o permitir su descarga.</p>
                     <p class="parrafo"> – No nos hacemos responsables del uso indebido que puedas hacer del contenido de nuestra página.</p>
                     <p class="parrafo"> – En ningún caso o circunstancia se podrá responsabilizar directamente o indirectamente al propietario ni a los colaboradores del ilícito uso de la información contenida en gotoplay.tk. Así mismo tampoco se nos podrá responsabilizar directamente o indirectamente de incorrecto uso o mala interpretación que se haga de la información y servicios incluidos. Igualmente quedara fuera de nuestra responsabilidad el material al que usted pueda acceder desde nuestros enlaces.</p>
