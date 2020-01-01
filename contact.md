@@ -14,7 +14,7 @@ contacto: "si"
   <p style="color:white; text-align:center; font-size:18px;"> Si tienes alguna pelicula o serie en especial que desees ver, escribela y envíanosla. La subiremos lo más pronto posible</p>
 
   <div id="form" class="contact-form">
-    	<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSdAaQZuepljZXqpwFCW1Qd-KbbXROj6nhJ8IH3qc8hwwj1wtw/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+    	<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeCmC1oVzUsiUqGx3ajq_AgsQrGvL5nuZclYxirNNGEpx578g/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
 																	<div class="form-group">
 																		<input type="text" placeholder="Escriba su nombre" required  class="form-control" name="entry.2007477976" id="entry.2007477976" >
 																	</div>
