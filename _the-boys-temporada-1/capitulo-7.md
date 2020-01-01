@@ -11,7 +11,7 @@ sandbox: allow-same-origin allow-forms
 idioma: 'Subtitulado'
 calidad: 'Full HD'
 fuente: 'cueva'
-reproductores: ["https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1Z2WDExaXBMVDI5N01aWjZLcUtqZzBiYUxlWHZKbWJUS3RLU2xxNUxidGRtU3FadVkyUT09"]
+reproductores: ["https://animekao.club/kaodrive/embed.php?data=9Gr5vH014TfjQkvFYjVWCBYD341TAKq7dO+MOiv92FQz6XDd6EuuXjx/lFeRlIGLNwovJawqQDCqeWUrwIJCdUotxZze1twZpbvnHoaVl//lwE1ZO7AuS9M9izl5hotoox5tCFpo3f1ING5eUtOHic1M12lrpj2G+sW34vlqAbgyCYShuNoOE2Oyi3Lqu9zYjrewi4+PTXXi8VvtNxniL4WGCS6JYr9NcT8gMaTsZZLwali5RNpGrpyg/n19tFhFQElnhoKSImSDL7i080VFasppcNP5WKUljxGcgVZTrZW3IseEq978W1+t6EXVesdx9sJcH6YJ3VATqFEDOYF++JDN9vxx3XhhxuzFYwinv2B/4kNiz0qpaOq5NZBI+AVEFlQ0UmB5N+8DChyhQFjiXw==","https://www.ilovefembed.best/v/jl0qysdjyy06xe3"]
 reproductor: fembed
 clasificacion: '+10'
 tags:
