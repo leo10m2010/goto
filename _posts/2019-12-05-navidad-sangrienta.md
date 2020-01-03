@@ -23,7 +23,7 @@ netflix: 'no'
 clasificacion: '+13'
 reproductores: ["https://www.fembed.com/v/76r3zhg5d-gxg8y"]
 tags:
-- Comedia
+- Terror
 twitter_text: Navidad Sangrienta
 introduction: Un grupo de estudiantes es perseguido por un extraño durante sus vacaciones de navidad. Remake de la película homónima aparecida en 1974.
 ---
