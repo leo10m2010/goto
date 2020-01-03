@@ -19,7 +19,7 @@ embed: https://www.youtube.com/embed/66wiY5aLMhI?rel=0&amp;hd=1&border=0&wmode=o
 sandbox: allow-same-origin allow-forms
 reproductor: fembed
 clasificacion: '+7'
-calidad: 'BRS'
+calidad: 'CAM'
 reproductores: ["https://feurl.com/v/qky5ptewnqw2g8k"]
 tags:
 - Comedia
