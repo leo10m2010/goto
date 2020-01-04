@@ -8,20 +8,18 @@ description: En esta secuela y empleando el característico sentido del humor de
 description_corta: En esta secuela y empleando el característico sentido del humor del que hizo gala “Zombieland”, el grupo de protagonistas tendrá que viajar desde la Casa Blanca hasta el corazón de los Estados Unidos, sobreviviendo a nuevas clases de muertos vivientes que...
 category: 'peliculas'
 idioma: 'Latino'
-descargas: 'yes'
-descargas2:
-    descarga-2: ["1", "https://rapidvid.to/d/G7Y4M2ZQ6C", "https://www.google.com/s2/favicons?domain=www.rapidvideo.com","RapidVideo","https://res.cloudinary.com/imbriitneysam/image/upload/v1541473684/mexico.png", "Subtitulado", "TS-Screener"]
+descargas: 'no'
 anio: '2019'
 duracion: '1h 33 min'
 estrellas: '5'
-calidad: 'CAM'
+calidad: 'Full HD'
 genero: Comedia
 trailer: https://www.youtube.com/embed/_NP3s1OWyuw
 embed: https://www.youtube.com/embed/_NP3s1OWyuw?rel=0&amp;hd=1&border=0&wmode=opaque&enablejsapi=1&modestbranding=1&controls=1&showinfo=1
 sandbox: allow-same-origin allow-forms
 reproductor: fembed
 clasificacion: '+8'
-reproductores: ["https://player.openload.download/player.php?id=NThheE8vVlFPWUVQaGo2Y0JxclF0dUZITkY4azJncjZDaFZNcWpjLzJHQzVhLzNxazhDRk9qU21GZWtGMm54SzJta2lyeUlWVUpiRXhFMzdFSkNzUGc9PQ","https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1Z6Mm1vWkpXMjByRzBlS0doeE5xMHc2cWhxS2lhcXVDdWxIMlRkOUNtMzZhU3FadVkyUT09","https://api.cuevana3.io/olpremium/gd.php?file=ek5lbm9xYWNrS0xNejZabVlkSFIyTkxQb3BPWDB0UFkwY3lvbjJIRjBPQ1QwNStUck1mVG9kVExvM0djeHA3VnFybXRscUdvMWRXNHRZbU1lYXVUeDg2cGpKVmp4cXpBejYxcGxYamF5czJveTU5K3JjMld6YmkwclphdHhkZkJscFNibEhyT3ROWFB4NHFIWk5LNXhiaTlaWVI2eHRmR3VkZU5sSjZvdWNHVWxIaC9ZNnpKeUxtWWdvV2V0S1RNdUwyYmgzcmEwY3pTdlh1V2lNMlUxZENvYklLRWlNbmYxOG1ZYjZ6SDFBPT0","https://tutumeme.net/embed/player.php?u=bXQ3ajJOaW1wcFRGcEs2VW5XRGExTlRPMytmUnc3bHVwcWhoenVIUjI5SHF5TlNwc0taaG1jN2gwZHZSNTlIRHVhV2tZWitkNUtDVDNOL1ZvYW1rYjJOa25aK2U"]
+reproductores-google: ["https://gotoplaytv.s3.us-east-2.amazonaws.com/ZOMBIELAND.2.1080p.LAT.mp4"]
 tags:
 - Comedia
 twitter_text: Zombieland 2
