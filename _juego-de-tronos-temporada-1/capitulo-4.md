@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Juego de Tronos 1x04"
 url_serie_padre: 'juego-de-tronos-temporada-1'
 category: 'series'

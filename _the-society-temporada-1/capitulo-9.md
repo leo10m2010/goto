@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Society 1x09"
 url_serie_padre: 'the-society-temporada-1'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Juego de Tronos 2x08"
 url_serie_padre: 'juego-de-tronos-temporada-2'
 category: 'series'

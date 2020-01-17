@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "See 1x03"
 url_serie_padre: 'see-temporada-1'
 category: 'series'

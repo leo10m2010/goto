@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "You - Temporada 1 - Capítulo 5"
 url_serie_padre: 'you-temporada-1'
 category: 'series'

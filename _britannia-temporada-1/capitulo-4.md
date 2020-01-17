@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Britannia 1x04"
 url_serie_padre: 'britannia-temporada-1'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Narcos: México 1x04"
 url_serie_padre: 'narcos-mexico-temporada-1'
 category: 'series'

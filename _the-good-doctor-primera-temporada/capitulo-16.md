@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Good Doctor 1x16"
 url_serie_padre: 'the-good-doctor-primera-temporada'
 category: 'series'

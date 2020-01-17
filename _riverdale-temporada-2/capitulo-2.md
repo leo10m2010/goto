@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Riverdale 2x02"
 url_serie_padre: 'riverdale-temporada-2'
 category: 'series'

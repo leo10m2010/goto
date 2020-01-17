@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Rick y Morty 2x07"
 url_serie_padre: 'rick-y-morty-temporada-2'
 category: 'series'

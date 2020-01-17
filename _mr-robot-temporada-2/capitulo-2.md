@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Mr. Robot 2x02"
 url_serie_padre: 'mr-robot-temporada-2'
 category: 'series'

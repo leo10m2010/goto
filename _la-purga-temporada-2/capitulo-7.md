@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "La purga 2x07"
 url_serie_padre: 'la-purga-temporada-2'
 category: 'series'

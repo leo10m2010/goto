@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Sabrina 1x07"
 url_serie_padre: 'sabrina-temporada-1'
 category: 'series'

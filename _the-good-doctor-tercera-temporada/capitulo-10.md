@@ -1,12 +1,12 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Good Doctor 3x10"
 url_serie_padre: 'the-good-doctor-tercera-temporada'
 category: 'series'
 capitulo: 'yes'
 anio: '2019'
 prev: 'capitulo-9'
-proximo: ''
+proximo: 'capitulo-11'
 sandbox: allow-same-origin allow-forms
 idioma: 'Subtitulado'
 calidad: 'Full HD'

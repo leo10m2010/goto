@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The End of the Fu***ing World 2x08"
 url_serie_padre: 'the-end-of-the-fucking-world-2'
 category: 'series'

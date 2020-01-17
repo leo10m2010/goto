@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "La cosa del pantano (swamp thing) 1x03"
 url_serie_padre: 'la-cosa-del-pantano-2019-temporada-1'
 category: 'series'

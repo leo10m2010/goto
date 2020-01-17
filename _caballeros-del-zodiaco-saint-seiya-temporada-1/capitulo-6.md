@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Los caballeros del zodiaco 1x06"
 url_serie_padre: 'caballeros-del-zodiaco-saint-seiya-temporada-1'
 category: 'series'

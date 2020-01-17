@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Le temes a la oscurdiad 1x02"
 url_serie_padre: 'le-temes-a-la-oscuridad-temporada-1'
 category: 'series'

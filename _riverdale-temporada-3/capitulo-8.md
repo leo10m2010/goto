@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Riverdale 3x08"
 url_serie_padre: 'riverdale-temporada-3'
 category: 'series'

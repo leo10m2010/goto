@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Desencanto 1x09"
 url_serie_padre: 'desencanto-temporada-1'
 reproductor: 'fembed'

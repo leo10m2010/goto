@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "La purga 1x08"
 url_serie_padre: 'la-purga-temporada-1'
 category: 'series'

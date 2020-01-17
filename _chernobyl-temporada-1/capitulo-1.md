@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Chernobyl 1x01"
 url_serie_padre: 'chernobyl-temporada-1'
 category: 'series'

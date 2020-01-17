@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Doom Patrol 1x04"
 url_serie_padre: 'doom-patrol-temporada-1'
 category: 'series'

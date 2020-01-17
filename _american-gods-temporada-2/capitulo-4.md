@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "American Gods 2x04"
 url_serie_padre: 'american-gods-temporada-2'
 category: 'series'

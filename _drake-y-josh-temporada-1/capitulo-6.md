@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Drake y Josh 1x06"
 url_serie_padre: 'drake-y-josh-temporada-1'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Instinto 1x08"
 url_serie_padre: 'instinto-temporada-1'
 category: 'series'

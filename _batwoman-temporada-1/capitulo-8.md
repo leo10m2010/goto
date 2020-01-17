@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Batwoman 1x08"
 url_serie_padre: 'batwoman-temporada-1'
 category: 'series'

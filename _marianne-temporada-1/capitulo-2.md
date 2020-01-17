@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Marianne 1x02"
 url_serie_padre: 'marianne-temporada-1'
 category: 'series'

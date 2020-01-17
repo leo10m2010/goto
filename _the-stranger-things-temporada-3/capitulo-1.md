@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Stranger Things 3x01"
 url_serie_padre: 'the-stranger-things-temporada-3'
 category: 'series'

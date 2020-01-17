@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Luis Miguel 1x10"
 url_serie_padre: 'luis-miguel-temporada-1'
 category: 'series'

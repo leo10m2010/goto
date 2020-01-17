@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Big Bang Theory 1x15"
 url_serie_padre: 'the-big-bang-theory-temporada-1'
 category: 'series'

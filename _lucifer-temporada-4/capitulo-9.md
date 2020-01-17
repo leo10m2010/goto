@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Lucifer 4x09"
 url_serie_padre: 'lucifer-temporada-4'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "La Casa de Papel 3x06"
 url_serie_padre: 'la-casa-de-papel-temporada-3'
 category: 'series'

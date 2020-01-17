@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Lucifer 3x18"
 url_serie_padre: 'lucifer-temporada-3'
 category: 'series'

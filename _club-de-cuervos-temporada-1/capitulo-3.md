@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Club de Cuervos 1x03"
 url_serie_padre: 'club-de-cuervos-temporada-1'
 category: 'series'

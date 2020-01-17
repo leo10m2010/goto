@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Insaciable 2x02"
 url_serie_padre: 'insaciable-temporada-2'
 category: 'series'

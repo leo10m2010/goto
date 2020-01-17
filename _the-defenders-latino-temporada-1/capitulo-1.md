@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Defenders 1x01"
 url_serie_padre: 'the-defenders-latino-temporada-1'
 category: 'series'

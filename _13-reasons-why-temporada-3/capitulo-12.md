@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "13 Reasons Why 3x12"
 url_serie_padre: '13-reasons-why-temporada-3'
 category: 'series'

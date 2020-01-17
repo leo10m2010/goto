@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Good Doctor 2x03"
 url_serie_padre: 'the-good-doctor-segunda-temporada'
 category: 'series'

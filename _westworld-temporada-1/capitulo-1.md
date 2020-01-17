@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "WestWorld 1x01"
 url_serie_padre: 'westworld-temporada-1'
 category: 'series'

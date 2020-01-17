@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "WatchMen 1x04"
 url_serie_padre: 'watchmen-temporada-1'
 category: 'series'

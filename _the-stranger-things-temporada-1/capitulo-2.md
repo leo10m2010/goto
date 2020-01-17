@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Stranger Things 1x02"
 url_serie_padre: 'the-stranger-things-temporada-1'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Flash 6x08"
 url_serie_padre: 'flash-temporada-6'
 category: 'series'
@@ -11,7 +11,7 @@ sandbox: allow-same-origin allow-forms
 idioma: 'Subtitulado'
 calidad: 'Full HD'
 fuente: 'cueva'
-reproductores: ["https://tutumeme.net/embed/player.php?u=bXQ3ajJOaW1wcFRGcEs2VW5XRGExTlRPMytmUnc3bHVwcWhoenVIUjI5SHF5TlNwc0taaG1jN2gwZHZSNTlIRHVhV2tZWitkNUtDVDNOL1ZvYW1rYjJacG9LU2g","https://player.openplay.vip/player.php?id=MTE0OTY&sub=https://sub.cuevana2.io/vtt-sub/sub7/The.Flash.6x08.vtt","https://player.cuevana2.io/irgotoolp.php?url=eTllbW9hZHpYNURLejlaalg2T3BsYy9PMHNTV29hYWVuY3JYMEpHVm9LRm9uWlRYbTVLQWRYMnpmZGlRMEphbmFRPT0&sub=https://sub.cuevana2.io/vtt-sub/sub7/The.Flash.6x08.vtt","https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1Z5S0tYaFkrcDBwbklhWm1ZbGRLOWxNV3BmNVdaaytXbHNxT2lwcnltNUxxU3FadVkyUT09"]
+reproductores: ["https://animekao.club/kaodrive/embed.php?data=txboYeaZ7fOALa6vtItXIJKo2yWX2gnBi5br0QjLhnH5oRqyN+9kaoPOjzmF0ypURsNKuet+oKs8fTZc9CHxlO5clmahAadKmDcAYRCAHzxTke7nhu/cHRwvCitZTdGydlUwRHvnlwPY7MV5hjNzL23Q1UEoFX3Nc0TOeKTNEPxcmnPnb9wc/I+VJdF6QmPCsNwPtftJbgjXKOr/DX17H1f4SnjuliA1BEvq0cap+YWR/iOdtbR6kUPHJR7bguJhm9isHHAKveW7+tkj9ogeg5frHnRuq1yGLMBKor7S46wQDCP6MfrOvdZvPI80/rhvu70CPZxkDbQpZg05vp0gLhnzc55AYfBF2apDboGPKxi+3pMJ/Yx0w+OAUmU4M8iHwR6cZV4b/G5qiTypSxCjWX/gdT9IXyi3izza/jT6RStrLvK+npyaRipi8L+M4Gv+hhC2GL/AVP0DGbAZz3z8OaPlGFQyaMf6zUQ5VOlPSrk8X9Gtf0eKhrcmCM8iSoUikJfi5gQzDVrdBhifDih61g==","https://upstream.to/embed-6y871st4txel.html","https://www.ilovefembed.best/v/wp-4run7wwjj7gp"]
 reproductor: 'fembed'
 clasificacion: '+5'
 tags:

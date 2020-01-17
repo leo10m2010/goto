@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "DayBreak 1x03"
 url_serie_padre: 'daybreak-temporada-1'
 category: 'series'

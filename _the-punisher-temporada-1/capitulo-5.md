@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Punisher 1x05"
 url_serie_padre: 'the-punisher-temporada-1'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "De viaje con los derbez 1x05"
 url_serie_padre: 'de-viaje-con-los-derbez'
 category: 'series'

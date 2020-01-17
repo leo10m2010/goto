@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The walking dead 10x07"
 url_serie_padre: 'the-walking-dead-temporada-10'
 category: 'series'

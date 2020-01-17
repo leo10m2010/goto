@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "El jóven Sheldon 3x09"
 url_serie_padre: 'el-joven-sheldon-temporada-3'
 category: 'series'
@@ -11,7 +11,7 @@ sandbox: allow-same-origin allow-forms
 idioma: 'Subtitulado'
 reproductor: 'fembed'
 calidad: 'Full HD'
-reproductores: ["https://player.openplay.vip/player.php?id=MTIwODg&sub=https://sub.cuevana2.io/vtt-sub/sub7/Young.Sheldon.3x09.vtt","https://api.cuevana3.io/olpremium/gd.php?file=ek5lbm9xYWNrS0xNejZaa1paRFE0OG5SbjZHVXh0SGx5ZENjcDZDUXhPTFJrcU9lbE52RzVaTFRtNkp5eThXd3NjMmFxdz09","https://player.cuevana2.io/irgotoolp.php?url=eTllbW9hZHpYNURLejlaalg2T3BsYy9PMHNTV29hYWVuY3JYMEpHVm9LRm9uWlRYbTVLQWRYMXBmc2lRMEphbmFRPT0&sub=https://sub.cuevana2.io/vtt-sub/sub7/Young.Sheldon.3x09.vtt","https://api.cuevana3.io/stream/index.php?file=ek5lbm9xYWNrS0xYMTZLa2xNbkdvY3ZTb3BtZng4TGp6ZFpobGFMUGtOVEx6SitYWU5YTTdORE1vWmRnbEpham5KTmtZSlRTMGViVTBxZGdsdEhPb3RqWGFXUmxtSk9tbHNLR2gzV3l3THVvd29aaVpzR21vNTJSb0tKbm9kSGkxOWVTcHF6U3hyRFh5S1dibUE9PQ"]
+reproductores: ["https://animekao.club/kaodrive/embed.php?data=mnId6uj7XK+2b8aEyk/F9GDK5U6xRpHB3g9sutFGJjQse541dJiA+LlOht2ZboZPG1TXrwE/GnKppRPOCNXgZIdtjioN6ounMXAvqv7/rNvVRivi97YkH6wt0bAwU0PgjJG9hM5QhuEPREgzZKtVhzk4qY+vHXuUI5z90sPebDln3TgjY02mjzsDYjcoVPxrvyLiB/d4aLnOCOVJFv2NH2hs65sOMDjC2D+5bIxiwenYaZiruEW1IOkzMx/6/8J+I6ezPAAtssRujkxs5CMKBbGjcWpPvh+F+7gu58QcHHAHwZxkEIe3WRbe3a/rARVzlY+XK9pD41s9rc7HuloORmoBvStOAVHU16n1G9IkscPm+OB5P3Fx2J2bnOksZE6KAhDHRJ7lVZKpdDQZVivqTx1whIFuDJnblXIbG46NKVevfCjdvvW04YLePI6G5fzt2XDpmrla/DCVUVuDZwokGhP/uTTT6hwP33duCXfSiAnCvxuUr6Ev6wERP6JdJYGRj6hkgrxsuguIxODHLhkj6E/e11lqs+QSEtpuCFKp2Tk=","https://www.ilovefembed.best/v/3gxnpsm6z78e7p8"]
 image_banner: 'https://res.cloudinary.com/u4innovation/image/upload/v1561429447/big-bang-temporada1banner-min_rlp7il.jpg'
 tags:
 - Comedia

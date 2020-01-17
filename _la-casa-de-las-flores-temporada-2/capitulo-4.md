@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "La casa de las flores 2x04"
 url_serie_padre: 'la-casa-de-las-flores-temporada-2'
 category: 'series'

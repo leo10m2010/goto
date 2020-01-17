@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Orange is the new black 4x11"
 url_serie_padre: 'orange-is-the-new-black-temporada-4'
 category: 'series'

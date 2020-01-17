@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Riverdale 4x05"
 url_serie_padre: 'riverdale-temporada-4'
 category: 'series'
@@ -8,12 +8,12 @@ anio: '2019'
 prev: 'capitulo-4'
 proximo: 'capitulo-6'
 sandbox: allow-same-origin allow-forms
-idioma: 'Subtitulado'
+idioma: 'Latino/Subtitulado'
 reproductor: 'fembed'
 calidad: 'Full HD'
 subtitulo: 'si'
 archivo: 'riverdale4x05.vtt'
-reproductores: ["https://tutumeme.net/embed/player.php?u=bXQ3ajJOaW1wcFRGcEs2VW5XRGExTlRPMytmUnc3bHVwcWhoenVIUjI5SHF5TlNwc0taaG1jN2gwZHZSNTlIRHVhV2tZWitkNUtDVDNOL1ZvYW1rYjJOcm82Q2g","https://api.cuevana3.io/olpremium/gd.php?file=ek5lbm9xYWNrS0xNejZabVlkSFIyTkxQb3BPWDB0UFkwY3lvbjJIRjBPQ1QwNStUck1mVG9kVExvM0djeHA3VnFybXRscUdvMWRXNHRZbU1lYXVUeDg2cGpKVmp4cXpBejYxcGs0cktsOEtyc2EyVm9jNjAxTkN0bllkbDFyUEgwYTJCZjNtcms4bTVzYTJVWmNhNXdkRzVyWk9meHRiQ3FiaGxobVRPMnNtOHFZeUZoN1RYd2F6VHBZbUkyczdLdU10L2xZcW96OGZSMTZXTG45TFN4cnFvYklLRWlNbmYxOG1ZYjZ6SDFBPT0","https://player.openplay.vip/player.php?id=MjM4Nw&sub=https://sub.cuevana2.io/vtt-sub/sub7/Riverdale.4x05.vtt","https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1Z2R2VhbWJXbHc2YkNnS0JyMDViY3U1bC9ySDZYcitLMTJKZDRtcythM3JLU3FadVkyUT09"]
+reproductores: ["https://animekao.club/kaodrive/embed.php?data=CKxMs9ontWSKuQSoL6rOhmH5BtZv3tBEPiuIfWCMDODj+L5v7D60NeSi+JyFSJzNz9XUx221yY+uwFEn9OyUBIRdkQyXlFKk2MTQtY8Q07iBqXDOnbOTkdMgPRpDY1GDsKr0pyFfPovbwm7feAeww5RWv6bqzEZgtgCR/19bL5th4JE0ZBLTnXZ0H2mls3M0j8CRScvj+QczVM0BRmo4GSv5PcZs4QGEBoYNErv46I3AdNRKXErvd7kkPmfCEdApJgFU90FD3sZtt9RC68x2zp+2u8yq3TO9Eq8emmaTn7yQuOxKz/dfG+AQQK1/mFXyUlKT7o39HeuXth0AKwXqspuxl4gEvHIg1PYL+SOn7/FuUAY7w3F5A256xj18Vpujwm1kwVM1pCjZdtSXVBhEn02yfhBSSIrJV8zkRkN1mlSmhXLUibOehYMxBSdR3UKNd9914711X7wkFAdHmegZsEsVS48uP6djUzh0j9O3qik3W9a26GYgnFdTpFcRwHdEugIY5gQwb0a2ImPgv1OUvA==","https://animekao.club/kaodrive/embed.php?data=Bdum21Z2lQSXpGwdwceutXVF30gETseIIuv2MZT67lc5DmFoE9sqof2NqwZ/RI6zP6CCslE4Se1p6tvjHVBW+FWCRMnSndxlDe3csbyNZ5pXg+YC/0whztQnqJ7RdM02qm5LrCT+zt9unGH54YGHZskwbdMii/8gMPGUVCvumAzhQvjeC4ZNsqB9Ltw4A93pR0txKvXFU8I8R3T7qb3MBklykU01X561ZWXaXWgNXxg+7ivvnKsn5ZhxquccEnNHRIcgj8yvXn8iq7NhT0UaSFi+OFlx5tENdCNHq+oHQs8f8iV7JkjR5vOoOwyse9o9sPBq4ToqG5gEJIm14PWMNWlCPDa0KX7igoTx1FauwrMeNqmcWQhXwNJ5XogAwLPsnTd7quwbB+BkzZsOnmvp2JMLgTiImru3BLKnTokn7+6+okNY5gOTvJ7kEVTTBsfwCxg2DDBI58WapemI2V2fUEMlelI39r7q4VCrbRvNlNdR7ElAQpBhlz+S9ONWcaEpvLUFLO2isut5GF+Qxn+2eQ==","https://www.ilovefembed.best/v/n8kent26nzxwqjk"]
 tags:
 - Drama
 ---

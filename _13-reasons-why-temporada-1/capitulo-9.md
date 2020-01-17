@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "13 Reasons Why 1x09 Latino"
 url_serie_padre: '13-reasons-why-temporada-1'
 category: 'series'

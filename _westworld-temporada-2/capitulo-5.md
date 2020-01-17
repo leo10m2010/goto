@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "WestWorld 2x05"
 url_serie_padre: 'westworld-temporada-2'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Jack Ryan 1x05"
 url_serie_padre: 'jack-ryan-temporada-1'
 category: 'series'

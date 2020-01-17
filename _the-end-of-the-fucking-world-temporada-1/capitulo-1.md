@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The End of the Fu***ing World 1x01"
 url_serie_padre: 'the-end-of-the-fucking-world-temporada-1'
 category: 'series'

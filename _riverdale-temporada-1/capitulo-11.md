@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Riverdale 1x11"
 url_serie_padre: 'riverdale-temporada-1'
 category: 'series'

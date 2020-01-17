@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Mandalorian 1x05"
 url_serie_padre: 'the-mandalorian-temporada-1'
 category: 'series'

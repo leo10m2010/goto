@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Black Mirror 4x02"
 url_serie_padre: 'black-mirror-temporada-4'
 category: 'series'

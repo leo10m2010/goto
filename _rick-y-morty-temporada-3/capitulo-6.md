@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Rick y Morty 3x06"
 url_serie_padre: 'rick-y-morty-temporada-3'
 category: 'series'

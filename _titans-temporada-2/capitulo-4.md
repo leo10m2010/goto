@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Titans 2x04"
 url_serie_padre: 'titans-temporada-2'
 category: 'series'

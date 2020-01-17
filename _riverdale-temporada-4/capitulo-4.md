@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Riverdale 4x04"
 url_serie_padre: 'riverdale-temporada-4'
 category: 'series'
@@ -8,11 +8,11 @@ anio: '2019'
 prev: 'capitulo-3'
 proximo: 'capitulo-5'
 sandbox: allow-same-origin allow-forms
-idioma: 'Subtitulado'
+idioma: 'Latino/Subtitulado'
 reproductor: 'fembed'
 calidad: 'Full HD'
 image_banner: 'https://res.cloudinary.com/u4innovation/image/upload/v1565152608/maxresdefault-min_vy9nnj.jpg'
-reproductores: ["https://hls4.openloadpremium.com/player.php?id=dFVTd3dyMXN5dVJENEh0cUNJN0JuTlRMdHpIUWoxRWVpNk9MR0E0NWt6Z2dmN0MwYWdoam1FMW12S3pLWVlsc3JCUGtyTGkxR0RIMkJXYkJkR1V5VWc9PQ&sub=https://sub.cuevana2.io/vtt-sub/sub7/Riverdale.4x04.vtt","https://player.openplay.vip/player.php?id=OTA2&sub=https://sub.cuevana2.io/vtt-sub/sub7/Riverdale.4x04.vtt","https://api.cuevana3.io/olpremium/gd.php?file=ek5lbm9xYWNrS0xNejZabVlkSFIyTkxQb3BPWDB0UFkwY3lvbjJIRjBPQ1QwNStUck1mVG9kVExvM0djeHA3VnFybXRscUdvMWRXNHRZbU1lYXVUeDg2cGpKVmp4cXpBejYxcGxJaXd6TUM4ckttSmg3eVUxcnFsWklXTHhycldxTStyaDV6V3Q5YTduSHAvWkxpVHpMdWJaWUNlbDVYQXJLbW9qSjJvdDhTM25HYUludEdSd00vSGdJeDNxTUxHME11SGlIclJrOENYc1hXTW9haTB4TkxHYklLRWlNbmYxOG1ZYjZ6SDFBPT0","https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1ZxcGwvbjY3QXd0alJvSmFBcUk2c3BhU3Bsb0NVeHRpMzAzeG9lcmE2b00rU3FadVkyUT09"]
+reproductores: ["https://animekao.club/kaodrive/embed.php?data=vEQRxE+L1XDSirteBhNbdRXBenA35EaqadQdF9mm2zGhPTT64ek0e1IUmEFVwd4QRGtdy6XVRcSEOOD5dkoDiTKlEmT4YD9DR5D5x1irxY67GU689GLtxV+6GiHK7vdH+niGflqzSJ/Mo3nBzTSsnWyzYdkb0rgYUSVeRk2qk5+KZAa+HbCCX5EuMODYWLq6he4AXWA4IyBeLh12wkuyXWjAyKe4NcuC7MslQdbKI3mfbN8RiQiNfU9OiIlW4NoM2QYUwyx99S1qiWrM/dK1IevtAXP4W8p9yoq4OWOLtHSCHRQp3F92SXGJm/xSY9D+VzItwBz7E0xGz/CbIEpd4f2MINTQyrihAjyCeIYAHSombPkcr7P40Br1BdrsVJQtmjlmc/2ttlYmcDE2+3izsqEZJqHWcYIilZoxGsrXnNsaYH2fbAy6X4XHCzEkWh1ZyxNfnxGHarqHem0FHU0l1ZfC362GAcPSCZrLPJBrVt40PJLrbYLKg3/lN9BUuLSCYwUEC3a+cO6fUtnUZi8xhg==","https://www.ilovefembed.best/v/28ygrt2ymm0l017","https://www.ilovefembed.best/v/28ygrt2ymm0l017"]
 tags:
 - Drama
 ---

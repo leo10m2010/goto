@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Pretty Little Liars: The perfectionist 1x08"
 url_serie_padre: 'pretty-little-liars-2019-temporada-1'
 category: 'series'

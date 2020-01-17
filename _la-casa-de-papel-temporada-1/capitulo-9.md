@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "La Casa de Papel 1x09"
 url_serie_padre: 'la-casa-de-papel-temporada-1'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Supergirl 5x08"
 url_serie_padre: 'supergirl-temporada-5'
 category: 'series'

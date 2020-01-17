@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Final Space 1x04"
 url_serie_padre: 'final-space-temporada-1'
 category: 'series'

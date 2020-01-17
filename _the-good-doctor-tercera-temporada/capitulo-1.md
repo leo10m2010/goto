@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Good Doctor 3x01"
 url_serie_padre: 'the-good-doctor-tercera-temporada'
 category: 'series'

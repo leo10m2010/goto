@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Flash 6x06"
 url_serie_padre: 'flash-temporada-6'
 category: 'series'
@@ -8,10 +8,10 @@ anio: '2019'
 prev: 'capitulo-5'
 proximo: 'capitulo-7'
 sandbox: allow-same-origin allow-forms
-idioma: 'Subtitulado'
+idioma: 'Latino/Subtitulado'
 calidad: 'Full HD'
 fuente: 'cueva'
-reproductores: ["https://player.openplay.vip/player.php?id=NTY0OQ&sub=https://sub.cuevana2.io/vtt-sub/sub7/The.Flash.2014.S06E06.vtt","https://tutumeme.net/embed/player.php?u=bXQ3ajJOaW1wcFRGcEs2VW5XRGExTlRPMytmUnc3bHVwcWhoenVIUjI5SHF5TlNwc0taaG1jN2gwZHZSNTlIRHVhV2tZWitkNUtDVDNOL1ZvYW1rYjJWaW5LaWE","https://player.cuevana2.io/irgotoolp.php?url=eTllbW9hZHpYNURLejlaalg2T3BsYy9PMHNTV29hYWVuY3JYMEpHVm9LRm9uWlRYbTVKL3E1dHBmY2lRMEphbmFRPT0&sub=https://sub.cuevana2.io/vtt-sub/sub7/The.Flash.2014.S06E06.vtt","https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1Z0V3lxZ0xldXlhYXFyWmVIeHJxNHA2YW1xV2FXc0xiSzBuWjBuOW1wNDkyU3FadVkyUT09"]
+reproductores: ["https://upstream.to/embed-gkzis2y8zaoo.html","https://www.ilovefembed.best/v/mx1qgh54zg8n-j0","https://animekao.club/kaodrive/embed.php?data=Y3PGiwKFRflMDrifykRxwPdDFe0/SU+n+nMIPnERVr60T4snQCGsCiy1uE3NIO5OnKgDiiZ3mvGtKtYKqd9mzoDXbzu33iHzTt07ti/7Xu12UWW48a3xta6LWm6rA8ymGSUVJa2Np9T8w0EzrpOGxFmnM04q5siIkGdDxFFkUqrM65YdDuZ6YVYgzFkDB2urdI++b3SK1JlUY8+2xYlQji2PvlNIsTyHJ3VtUlKTLtKSJztJpTdYO2ogLx1giAPuVSEyS+CnUs4XEOWIlKwwjkAV7TWptrAaQ8fBUSzrSb81qhQAvnadlotROmdf2NnD59SzDNkROzgYQiiijCIRWJbzDkfDH24qfc2HXvAWxkfu5pgqPgaP37J1eXdsJhUVFeSefj7m/5DJgiFmnvdHIKYMh6h9xLD4d1ueowjWomPj5hwnB/PLs/dKlNVcrWM3cPvJWsnRZThL7kG4eyRQvv0q66rOC/JCnyKR4pkpWYgaQ+pRwelQO6zuqYwQceroxVvIW00n0z4XOwAaZwR96g==","https://upstream.to/embed-6cdtx0q1ip5g.html","https://www.ilovefembed.best/v/kerqxt3z0q8l8dy","https://cine24.online/stream/41407","https://cine24.online/stream/41408","https://cine24.online/stream/41409"]
 reproductor: fembed
 clasificacion: '+5'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Lucifer 1x06"
 url_serie_padre: 'lucifer-temporada-1'
 category: 'series'

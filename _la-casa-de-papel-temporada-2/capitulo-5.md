@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "La Casa de Papel 2x05"
 url_serie_padre: 'la-casa-de-papel-temporada-2'
 category: 'series'

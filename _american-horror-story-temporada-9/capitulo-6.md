@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "American Horror Story 9x06"
 url_serie_padre: 'american-horror-story-temporada-9'
 category: 'series'

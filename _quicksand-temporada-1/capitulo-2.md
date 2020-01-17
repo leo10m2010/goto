@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Arenas Movedizas 1x02"
 url_serie_padre: 'quicksand-temporada-1'
 category: 'series'

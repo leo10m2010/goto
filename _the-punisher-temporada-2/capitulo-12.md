@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Punisher - 2x12"
 url_serie_padre: 'the-punisher-temporada-2'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Élite - Temporada 2x07"
 url_serie_padre: 'elite-temporada-2'
 category: 'series'

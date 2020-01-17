@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Juego de Tronos 5x06"
 url_serie_padre: 'juego-de-tronos-temporada-5'
 category: 'series'

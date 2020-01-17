@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Mr. Robot 4x10"
 url_serie_padre: 'mr-robot-temporada-4'
 category: 'series'

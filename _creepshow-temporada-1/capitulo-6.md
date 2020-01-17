@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "CreepShow 1x06"
 url_serie_padre: 'creepshow-temporada-1'
 category: 'series'

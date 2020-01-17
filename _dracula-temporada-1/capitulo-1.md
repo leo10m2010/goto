@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Drácula 1x01"
 url_serie_padre: 'dracula-temporada-1'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "13 Reasons Why 2x12 Latino"
 url_serie_padre: '13-reasons-why-temporada-2'
 category: 'series'

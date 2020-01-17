@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "Dark 1x07"
 url_serie_padre: 'dark-temporada-1'
 category: 'series'

@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "El jóven Sheldon 3x04"
 url_serie_padre: 'el-joven-sheldon-temporada-3'
 category: 'series'
@@ -11,7 +11,7 @@ sandbox: allow-same-origin allow-forms
 idioma: 'Subtitulado'
 reproductor: 'fembed'
 calidad: 'Full HD'
-reproductores: ["https://hls4.openloadpremium.com/player.php?id=dFVTd3dyMXN5dVJENEh0cUNJN0JuT2dqZjl2Um84cm5MZVVzTkpGQ25ROE1QUmkzNmEwSzQ4YTV2RUVTMEh3THNUbU4zdkF0WmpNYVVOZnhEZEVsbFE9PQ&sub=https://sub.cuevana2.io/vtt-sub/sub7/Young.Sheldon.3x04.vtt","https://player.openplay.vip/player.php?id=MzMx&sub=https://sub.cuevana2.io/vtt-sub/sub7/Young.Sheldon.3x04.vtt","https://tutumeme.net/embed/player.php?u=bXQ3ajJOaW1wcFRGcEs2VW5XRGExTlRPMytmUnc3bHVwcWhoenVIUjI5SHF5TlNwc0taaG1jN2gwZHZSNTlIRHVhV2tZWitkNUtDVDNOL1ZvYW1rYjJSbG9hT1k","https://api.cuevana3.io/olpremium/gd.php?file=ek5lbm9xYWNrS0xNejZabVlkSFIyTkxQb3BPWDB0UFkwY3lvbjJIRjBPQ1QwNStUck1mVG9kVExvM0djeHA3VnFybXRscUdvMWRXNHRZbU1lYXVUeDg2cGpKVmp4cXpBejYxcGsyT1MyTlc0cFdpR2lzN1YyTHZIaklObHVNN0t2S21zaVh1MG85YVcxNGFIaTdTdjJLdlhpSWQ2MHRqS3JOTitsb2pLMXNpNXo0cVVaYXlUd0phc1pwU2R0TXpNejdSamYyVFNzTUhPem1lRm9NN2ExNVNvYklLRWlNbmYxOG1ZYjZ6SDFBPT0","https://api.cuevana3.io/stream/index.php?file=ek5lbm9xYWNrS0xYMTZLa2xNbkdvY3ZTb3BtZng4TGp6ZFpobGFMUGtOVEx6SitYWU5YTTdORE1vWmRnbEpham5KTmtZSlRTMGViVTBxZGdsdEhPb3RqWGFXUmxtSk9tbHNLR2gzV3l3THVvd29aaVpzR21vNWlSb0tKbm9kSGkxOWVTcHF6U3hyRFh5S1dibUE9PQ","https://player.cuevana2.io/irgotoolp.php?url=eTllbW9hZHpYNURLejlaalg2T3BsYy9PMHNTV29hYWVuY3JYMEpHVm9LRm9uWlRYbTVKL201ZHRmNktRMEphbmFRPT0&sub=https://sub.cuevana2.io/vtt-sub/sub7/Young.Sheldon.3x04.vtt","https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1Z0MmRpbnNTU3E3bTdobjJlMHRlODF0aUhvcDJWbU1UTXUzbWhhNi9SdExHU3FadVkyUT09"]
+reproductores: ["https://animekao.club/kaodrive/embed.php?data=KTJusMehE6Ef++d8DbZIW1Qh1n8/nP3wBmd8Fo8GgeGbnMxcqOqfs3y4rc9R5LL46AO8UtDqwE7+ArALbatiArZ7RGnxLtQzx6yXUgiSiqh4ZN9u5AAM2Kw5mf6auhiECSbPcYQz32rIDgPafxepWHUhiWyWaaaRLgkuEx5Gsnl7Jzd1R2/IvFoFbP8aqbHFPw+s3DWyALVmGhJotdrBbWtPdxBapav21Y86VIu+MyKM2abyP45HtXbQUUS4uCpEns77NNVz52h0xGy5q5chlIyR96/YLChI3B7HSVf72oG13Rlum8O8cPzLVpkBlFh1B6NYdtFbvR9Oh36WDREmBHXmIez5cLNe29IvnOJCQ+GJdWrm6vtDaSIVA+uQis6Xa+kMRjj7Sy2V/E8sQo9n7N/BYsAjipcLOfiDCGNQKN7ZYewIuBdfY94IIoJg4VDng7DeUMBspGk4vAlRDx7tm1x5NeSqB7IUVbLkX0SOj0w5uswivJ+C1wtIm1ZG1tOydZslFFAlq6j9iDHeU6QZO69IREPWuwY6nDI9+XZeQzo=","https://www.ilovefembed.best/v/66ygzs0gdm541z0","https://api.cuevana3.io/rr/gd.php?h=ek5lbm9xYWNrS0xJMVp5b21KREk0dFBLbjVkaHhkRGdrOG1jbnBpUnhhS1Z0MmRpbnNTU3E3bTdobjJlMHRlODF0aUhvcDJWbU1UTXUzbWhhNi9SdExHU3FadVkyUT09"]
 image_banner: 'https://res.cloudinary.com/u4innovation/image/upload/v1561429447/big-bang-temporada1banner-min_rlp7il.jpg'
 tags:
 - Comedia

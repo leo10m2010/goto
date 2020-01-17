@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "American Gods 1x08"
 url_serie_padre: 'american-gods-temporada-1'
 category: 'series'

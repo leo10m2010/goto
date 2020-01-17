@@ -1,5 +1,5 @@
 ---
-layout: episodio
+layout: episodios
 title: "The Act 1x05"
 url_serie_padre: 'the-act-temporada-1'
 category: 'series'
